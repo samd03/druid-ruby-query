@@ -1,1 +1,2 @@
-# druid-ruby-query
+# drui
+d-ruby-query
