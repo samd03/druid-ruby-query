@@ -1,1 +1,2 @@
-## druid-ruby-query2736972139712
+## druid-ruby-query
+
